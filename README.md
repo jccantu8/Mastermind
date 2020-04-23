@@ -18,3 +18,13 @@ Scores will be displayed at the end of each game
 
 
 The computer is especially limited in its ability to guess since it simply picks colors at random. This will be updated.
+
+![Mastermind 1](mastermind1.png?raw=true)
+
+![Mastermind 2](mastermind2.png?raw=true)
+
+![Mastermind 3](mastermind3.png?raw=true)
+
+![Mastermind 4](mastermind4.png?raw=true)
+
+![Mastermind 5](mastermind5.png?raw=true)
